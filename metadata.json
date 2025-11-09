@@ -1,0 +1,5 @@
+{
+  "name": "Browser Sitemap Generator",
+  "description": "A client-side tool to crawl a website and generate an XML sitemap. Due to browser security (CORS), this will only work on websites that explicitly allow cross-origin requests.",
+  "requestFramePermissions": []
+}
